@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nome_pais">24sp</dimen>
+    <dimen name="bandeira_pais">250dp</dimen>
+</resources>

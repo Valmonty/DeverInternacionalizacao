@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Χώρες</string>
+    <string name="pais">Ελλάδα</string>
+    <string name="bandeira">Ελληνική σημαία</string>
+    <string name="comida">Σολομός</string>
+</resources>
